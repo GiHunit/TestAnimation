@@ -58,6 +58,10 @@ color: black;
     content:"\f004"; 
 
     font-weight: 900;
+    mask:linear-gradient(to bottom right,rgb(143, 57, 57),transparent);
+    -webkit-mask:linear-gradient(to bottom right,rgb(143, 57, 57),transparent);
+
+
     filter: invert(69%) sepia(36%) saturate(2238%) hue-rotate(284deg) brightness(103%) contrast(101%);
 
 
